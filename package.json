@@ -23,6 +23,7 @@
 "dependencies" : {
     "express"    : "latest",
     "request"    : "latest",
-    "cheerio"    : "latest"
+    "cheerio"    : "latest",
+    "url-parse" :"latest"
   }
 }
